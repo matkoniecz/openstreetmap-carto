@@ -9,7 +9,7 @@ to be easily customised. They work with [Kosmtik](https://github.com/kosmtik/kos
  and also with the command-line [CartoCSS](https://github.com/mapbox/carto) processor.
 
 Since August 2013 these stylesheets have been used on the OSMF tileservers (tile.openstreetmap.org), and
-are updated from each point release. They supersede the previous [XML-based stylesheets](https://github.com/openstreetmap/mapnik-stylesheets).
+are updated from each point release. They supersede the previous [XML-based stylesheets][xml_stylesheets].
 
 # Installation
 
@@ -79,7 +79,7 @@ There are many open-source stylesheets written for creating OpenStreetMap-based
 maps using Mapnik, many based on this project. Some alternatives are:
 
 * [OSM-Bright](https://github.com/mapbox/osm-bright)
-* [XML-based stylesheets](https://trac.openstreetmap.org/browser/subversion/applications/rendering/mapnik)
+* [XML-based stylesheets][xml_stylesheets]
 * [osmfr-cartocss](https://github.com/cquest/osmfr-cartocss)
 * [openstreetmap-carto-german](https://github.com/giggls/openstreetmap-carto-de)
 
@@ -93,3 +93,6 @@ maps using Mapnik, many based on this project. Some alternatives are:
 * Christoph Hormann [@imagico](https://github.com/imagico)
 * Michael Glanznig [@nebulon42](https://github.com/nebulon42)
 * Lukas Sommer [@sommerluk](https://github.com/sommerluk)
+
+
+[xml_stylesheets]: https://github.com/openstreetmap/mapnik-stylesheets
